@@ -1,6 +1,6 @@
 {
     "name": "react-phone-code",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Get national phone code for a Country. Select a Country from the dropdown and get the National phone code for it. eg: +91 for India, +1 for USA",
     "keywords": [
         "react-phone-code",
